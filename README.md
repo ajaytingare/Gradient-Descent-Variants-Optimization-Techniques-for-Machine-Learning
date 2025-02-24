@@ -1,7 +1,6 @@
-# Gradient-Descent-Variants-Optimization-Techniques-for-Machine-Learning
+# Gradient Descent Variants - The AI Superheroes! 🚀
 "Riding the Slope: A Fun Dive into Gradient Descent Variants! 🎢"
 
-# Gradient Descent Variants - The AI Superheroes! 🚀
 
 Gradient Descent is like the fuel that powers machine learning and deep learning models. It helps our models learn by tweaking parameters step by step until they find the best solution (aka minimizing loss). But hey, not all gradient descent methods are created equal! Some are slow, some are fast, and some are just plain stubborn. Let's break them down in a fun and simple way. 😎
 
